@@ -1,6 +1,6 @@
 ## Prescribers Database
 
-For this exericse, you'll be working with a database derived from the [Medicare Part D Prescriber Public Use File](https://www.hhs.gov/guidance/document/medicare-provider-utilization-and-payment-data-part-d-prescriber-0). More information about the data is contained in the Methodology PDF file. See also the included entity-relationship diagram.
+For this exericse, we used the database derived from the [Medicare Part D Prescriber Public Use File](https://www.hhs.gov/guidance/document/medicare-provider-utilization-and-payment-data-part-d-prescriber-0). More information about the data is contained in the Methodology PDF file. See also the included entity-relationship diagram.
 
 ### Objective
 The objective of this exercise is to explore and analyze the prescriber database to gain insights into prescription claims, drug costs, and specialties. Use joins, groupby, and orderby functions to answer specific questions and perform other tasks to understand trends and patterns in the data.
